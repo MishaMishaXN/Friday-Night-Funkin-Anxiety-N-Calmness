@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"lofi-lore",
+			"bf",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "Anxiety & Calmness",
+	"weekName": "LO-FI",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
